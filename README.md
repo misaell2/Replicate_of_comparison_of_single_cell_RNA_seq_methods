@@ -12,6 +12,9 @@ Below are the figures reproduced:
 <img width="1015" height="821" alt="image" src="https://github.com/user-attachments/assets/3be2ea23-73e5-4ec7-9d78-35cfd3f53a40" />
 
 
+Note: clusters were done with scanpy package rather than besca package (created by authors), similar results are shown.
+
+
 The project evaluates how different scRNA-seq technologies perform when profiling human immune cells, focusing on:
 - Library quality and cell-level QC metrics (figure 2A-C)
 - Expression stability across technologies and cell types (Figure 2D)
